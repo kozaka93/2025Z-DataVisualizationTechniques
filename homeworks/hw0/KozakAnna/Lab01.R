@@ -21,4 +21,5 @@ for(i in 1:X){
 
 X - LICZBA LUB WEKTOR
 
+
 data.frame(table(XXX))
