@@ -1,0 +1,389 @@
+Airport_name,Airport_code,Destination_name,Destination_code,Airline,Duration,Flights_per_day,Weekdays,
+Warsaw Chopin Airport,WAW,Schiphol,AMS,KLM,2h 15m,8,S M T W T F S
+Warsaw Chopin Airport,WAW,Copenhagen Airport,CPH,LOT,1h 35m,5-8,S M T W T F S
+Warsaw Chopin Airport,WAW,Vienna International Airport,VIE,LOT,1h 20m,7-8,S M T W T F S
+Warsaw Chopin Airport,WAW,Frankfurt Airport,FRA,Lufthansa,1h 50m,7,S M T W T F S
+Warsaw Chopin Airport,WAW,Charles De Gaulle,CDG,Air France,2h 30m,6-7,S M T W T F S
+Warsaw Chopin Airport,WAW,Munich Airport,MUC,Lufthansa,1h 40m,6-7,S M T W T F S
+Warsaw Chopin Airport,WAW,Copernicus Airport Wrocław,WRO,LOT,0h 55m,6,S M T W T F S
+Warsaw Chopin Airport,WAW,Gdańsk Lech Wałęsa Airport,GDN,LOT,0h 55m,5-7,S M T W T F S
+Warsaw Chopin Airport,WAW,Kraków John Paul II International Airport,KRK,LOT,0h 55m,5-6,S M T W T F S
+Warsaw Chopin Airport,WAW,Heathrow,LHR,British Airways,2h 50m,5-6,S M T W T F S
+Warsaw Chopin Airport,WAW,Istanbul Airport,IST,LOT,2h 45m,5-6,S M T W T F S
+Warsaw Chopin Airport,WAW,Brussels Airport,BRU,LOT,2h 10m,4-6,S M T W T F S
+Warsaw Chopin Airport,WAW,Budapest Ferenc Liszt International Airport,BUD,LOT,1h 20m,4-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Václav Havel Airport Prague,PRG,LOT,1h 15m,4-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Vilnius Airport,VNO,LOT,1h 5m,4-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Lawica,POZ,LOT,0h 55m,2-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Jasionka,RZE,LOT,0h 55m,4-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Zurich Airport,ZRH,LOT,2h 5m,3-5,S M T W T F S
+Warsaw Chopin Airport,WAW,Henri Coandă International Airport,OTP,LOT,1h 50m,4,S M T W T F S
+Warsaw Chopin Airport,WAW,Fiumicino,FCO,Wizz Air,2h 30m,3-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Dusseldorf Airport,DUS,Eurowings,1h 55m,2-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Helsinki Airport,HEL,Finnair,1h 45m,3-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Ben Gurion International Airport,TLV,LOT,3h 45m,3-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Katowice Airport,KTW,LOT,0h 50m,2-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Goleniow,SZZ,LOT,1h 5m,2-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Athens International Airport,ATH,Aegean,2h 40m,3-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Tallinn,TLL,LOT,1h 45m,3-4,S M T W T F S
+Warsaw Chopin Airport,WAW,El Prat Airport,BCN,LOT,3h 10m,3,S M T W T F S
+Warsaw Chopin Airport,WAW,Berlin Brandenburg Airport,BER,LOT,1h 20m,2-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Dubai International Airport,DXB,Emirates,6h 5m,3,S M T W T F S
+Warsaw Chopin Airport,WAW,Luton,LTN,Wizz Air,2h 40m,3,S M T W T F S
+Warsaw Chopin Airport,WAW,Milan Malpensa Airport,MXP,LOT,2h 15m,3,S M T W T F S
+Warsaw Chopin Airport,WAW,Oslo Gardermoen Airport,OSL,Norwegian,2h 10m,3,S M T W T F S
+Warsaw Chopin Airport,WAW,Stockholm Arlanda Airport,ARN,LOT,1h 50m,2-3,S M T W T F S
+Warsaw Chopin Airport,WAW,Hamburg Airport,HAM,LOT,1h 40m,2-3,S M T W T F S
+Warsaw Chopin Airport,WAW,Sofia Airport,SOF,LOT,2h 0m,2-3,S M T W T F S
+Warsaw Chopin Airport,WAW,Riga International Airport,RIX,LOT,1h 20m,2-3,S M T W T F S
+Warsaw Chopin Airport,WAW,Orio al Serio International Airport,BGY,Wizz Air,2h 5m,2-4,S M T W T F S
+Warsaw Chopin Airport,WAW,Chisinau International Airport,RMO,LOT,1h 45m,2-3,S M T W T F S
+Warsaw Chopin Airport,WAW,Hamad International Airport,DOH,Qatar Airways,5h 30m,2,S M T W T F S
+Warsaw Chopin Airport,WAW,Geneva Airport,GVA,LOT,2h 20m,2,S M T W T F S
+Warsaw Chopin Airport,WAW,Barajas,MAD,LOT,3h 50m,2,S M T W T F S
+Warsaw Chopin Airport,WAW,Zagreb Airport,ZAG,LOT,1h 40m,2,S M T W T F S
+Warsaw Chopin Airport,WAW,Alicante–Elche Miguel Hernández Airport,ALC,Wizz Air,3h 25m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Larnaca Airport,LCA,LOT,3h 30m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Belgrad Nikola Tesla Airport,BEG,LOT,1h 40m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Malta International Airport,MLA,Wizz Air,3h 5m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Málaga Airport,AGP,Wizz Air,3h 55m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Venice Marco Polo Airport,VCE,LOT,2h 0m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Antalya Airport,AYT,SunExpress,3h 0m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Brussels South Charleroi Airport,CRL,Wizz Air,2h 5m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,John F Kennedy International,JFK,LOT,9h 30m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Ljubljana,LJU,LOT,1h 35m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Cote D Azur Airport,NCE,LOT,2h 30m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Pearson International,YYZ,LOT,9h 40m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Billund Airport,BLL,LOT,1h 50m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Cluj International Airport,CLJ,LOT,1h 25m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Keflavík International Airport,KEF,Wizz Air,4h 20m,0-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Luxembourg Airport,LUX,LOT,2h 5m,0-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Chicago O Hare International,ORD,LOT,10h 20m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Stuttgart Airport,STR,LOT,1h 55m,0-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Tirana International Airport Nënë Tereza,TIA,LOT,2h 10m,1-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Baneasa,BBU,Wizz Air,1h 55m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Eindhoven Airport,EIN,Wizz Air,2h 5m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Zvartnots International Airport,EVN,LOT,3h 35m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Kutaisi,KUT,Wizz Air,3h 30m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Gatwick,LGW,Wizz Air UK,2h 25m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Lublin Airport,LUZ,LOT,0h 45m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Naples International Airport,NAP,Wizz Air,2h 25m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Narita International Airport,NRT,LOT,12h 50m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Skavsta,NYO,Wizz Air,1h 40m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Orly Airport,ORY,Wizz Air,2h 35m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Palma De Mallorca Airport,PMI,Wizz Air,3h 10m,0-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Sharjah International,SHJ,Air Arabia,5h 55m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Sarajevo,SJJ,LOT,1h 45m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Thessaloniki Airport,SKG,LOT,2h 15m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Skopje,SKP,LOT,2h 10m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Lochini,TBS,LOT,3h 40m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Podgorica,TGD,Wizz Air,2h 0m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Torp,TRF,Wizz Air,2h 0m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Bari Airport,BRI,Wizz Air,2h 15m,0-1,S M T T F S
+Warsaw Chopin Airport,WAW,Bydgoszcz Ignacy Jan Paderewski Airport,BZG,LOT,0h 50m,0-1,S M T W T F
+Warsaw Chopin Airport,WAW,Catania Fontanarossa Airport,CTA,Wizz Air,2h 50m,0-1,S M T W T F
+Warsaw Chopin Airport,WAW,Göteborg Landvetter Airport,GOT,LOT,1h 45m,0-1,S M T W T F
+Warsaw Chopin Airport,WAW,Incheon International Airport,ICN,LOT,11h 20m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Babimost,IEG,LOT,1h 0m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Kosice,KSC,LOT,1h 5m,0-1,S M T W T F
+Warsaw Chopin Airport,WAW,Lyon–Saint-Exupéry Airport,LYS,LOT,2h 25m,0-1,S M T W T F
+Warsaw Chopin Airport,WAW,Split Airport,SPU,LOT,2h 0m,0-2,S M T W F
+Warsaw Chopin Airport,WAW,Bologna Guglielmo Marconi Airport,BLQ,Wizz Air,2h 5m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,EuroAirport Basel Mulhouse Freiburg,BSL,Wizz Air,2h 5m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Cairo International Airport,CAI,LOT,4h 5m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Indira Gandhi International Airport,DEL,LOT,7h 20m,0-1,S M W T F
+Warsaw Chopin Airport,WAW,Dortmund,DTM,Wizz Air,1h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Mosnov,OSR,LOT,1h 0m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Pisa International Airport,PSA,Ryanair,2h 10m,0-2,S M T W T F S
+Warsaw Chopin Airport,WAW,Tenerife South Airport,TFS,Wizz Air,6h 5m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Zayed International Airport,AUH,Etihad,5h 40m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Beirut International Airport,BEY,LOT,3h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Dubrovnik Airport,DBV,LOT,2h 0m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Newark Liberty International,EWR,LOT,9h 45m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Heydar Aliyev International Airport,GYD,LOT,4h 15m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Los Angeles International,LAX,LOT,12h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Liverpool Airport,LPL,Wizz Air,2h 53m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Nursultan Nazarbayev,NQZ,LOT,6h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Oradea,OMR,LOT,1h 20m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Beijing Capital International Airport,PEK,Air China,9h 0m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Islam Karimov Tashkent International Airport,TAS,LOT,6h 5m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Valencia Airport,VLC,Wizz Air,3h 30m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Burgas,BOJ,Wizz Air,2h 15m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Madeira Airport,FNC,Wizz Air,5h 25m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Genova Sestri,GOA,Wizz Air,2h 15m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Heraklion International Airport,HER,Wizz Air,2h 55m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Leeds Bradford,LBA,Wizz Air,2h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Miami International,MIA,LOT,11h 40m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,King Khaled International,RUH,LOT,5h 40m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Seville Airport,SVQ,Wizz Air,3h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,İzmir Adnan Menderes Airport,ADB,SunExpress,2h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Inezgane Airport,AGA,Wizz Air,4h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Bilbao Airport,BIO,Wizz Air,3h 25m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Chhatrapati Shivaji Maharaj International Airport,BOM,LOT,7h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Corfu International Airport,CFU,Wizz Air,2h 25m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Dublin Airport,DUB,Aer Lingus,3h 15m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Ankara Esenboğa Airport,ESB,Pegasus,2h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Fuerteventura Airport,FUE,Wizz Air,5h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Santorini (Thira) International Airport,JTR,Wizz Air,2h 50m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Manchester Airport,MAN,Ryanair,2h 35m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Olbia Costa Smeralda Airport,OLB,Wizz Air,2h 40m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Porto Airport,OPO,Wizz Air,3h 58m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Zakynthos International Airport,ZTH,Wizz Air,2h 45m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Chania International Airport,CHQ,Wizz Air,2h 55m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Innsbruck,INN,Austrian,1h 40m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Paphos International Airport,PFO,Ryanair,3h 30m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Marrakesh Menara Airport,RAK,Wizz Air,4h 45m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Rhodes International Airport,RHO,Wizz Air,3h 3m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Entzheim,SXB,LOT,1h 55m,0-1,S M T W T F S
+Warsaw Chopin Airport,WAW,Bolzano,BZO,Sky Alps,2h 20m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Krabi,KBV,Neos,10h 40m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Rovaniemi,RVN,LOT,2h 45m,1,S M T W T F S
+Warsaw Chopin Airport,WAW,Stavanger Sola,SVG,LOT,2h 0m,1,S M T W T F S
+Kraków John Paul II International Airport,KRK,Warsaw Chopin Airport,WAW,LOT,0h 50m,5-6,S M T W T F S
+Kraków John Paul II International Airport,KRK,Frankfurt Airport,FRA,Lufthansa,1h 40m,4-5,S M T W T F S
+Kraków John Paul II International Airport,KRK,Schiphol,AMS,KLM,2h 0m,4-5,S M T W T F S
+Kraków John Paul II International Airport,KRK,Munich Airport,MUC,Lufthansa,1h 20m,3-4,S M T W T F S
+Kraków John Paul II International Airport,KRK,Copenhagen Airport,CPH,Norwegian Intl,1h 30m,2-4,S M T W T F S
+Kraków John Paul II International Airport,KRK,Dubai International Airport,DXB,flydubai,5h 40m,3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Vienna International Airport,VIE,Austrian,1h 10m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Helsinki Airport,HEL,Finnair,1h 55m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Stansted,STN,Ryanair,2h 25m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Orio al Serio International Airport,BGY,Ryanair,1h 50m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Oslo Gardermoen Airport,OSL,Norwegian Air,2h 5m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Sharjah International,SHJ,Air Arabia,5h 35m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Gatwick,LGW,easyJet,2h 40m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Luton,LTN,Wizz Air,2h 35m,2-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,El Prat Airport,BCN,Ryanair,2h 50m,2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Stockholm Arlanda Airport,ARN,Norwegian Intl,1h 55m,1-3,S M T W T F S
+Kraków John Paul II International Airport,KRK,Ciampino,CIA,Ryanair,2h 0m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Istanbul Airport,IST,LOT,2h 25m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Manchester Airport,MAN,Ryanair,2h 45m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Zurich Airport,ZRH,SWISS,1h 45m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Bologna Guglielmo Marconi Airport,BLQ,Ryanair,1h 45m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Beauvais–Tillé Airport,BVA,Ryanair,2h 15m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Charles De Gaulle,CDG,easyJet,2h 20m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Dublin Airport,DUB,Ryanair,3h 0m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Eindhoven Airport,EIN,Ryanair,1h 55m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Milan Malpensa Airport,MXP,Wizz Air,1h 55m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Bergen Airport,BGO,Norwegian Air,2h 20m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Torp,TRF,Ryanair,2h 5m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Bristol Airport,BRS,Ryanair,2h 40m,0-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Tirana International Airport Nënë Tereza,TIA,Ryanair,1h 50m,0-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Bari Airport,BRI,Ryanair,1h 55m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,EuroAirport Basel Mulhouse Freiburg,BSL,easyJet,1h 50m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Edinburgh Airport,EDI,Ryanair,2h 50m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Zadar Airport,ZAD,Ryanair,1h 30m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Pisa International Airport,PSA,Ryanair,2h 0m,1-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Valencia Airport,VLC,Ryanair,3h 10m,0-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Orly Airport,ORY,LOT,2h 25m,1,S M T W T F S
+Kraków John Paul II International Airport,KRK,Thessaloniki Airport,SKG,Ryanair,1h 55m,0-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Fiumicino,FCO,Wizz Air,2h 5m,1,S M T W T F S
+Kraków John Paul II International Airport,KRK,Málaga Airport,AGP,Ryanair,3h 0m,0-2,S M T W T F S
+Kraków John Paul II International Airport,KRK,Geneva Airport,GVA,easyJet,2h 5m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Dyce,ABZ,Wizz Air,2h 25m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Fiumicino,FCO,Wizz Air,2h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,M R Stefanik,BTS,Ryanair,1h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Budapest Ferenc Liszt International Airport,BUD,Wizz Air,1h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Malta International Airport,MLA,Ryanair,3h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Cork,ORK,Ryanair,3h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Riga International Airport,RIX,Ryanair,1h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Tromso,TOS,Wizz Air,2h 45m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Casale,BDS,Ryanair,2h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Larnaca Airport,LCA,Wizz Air,3h 40m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Billund Airport,BLL,Wizz Air,1h 25m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Zurich Airport,ZRH,SWISS,2h 0m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Bristol Airport,BRS,Ryanair,2h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Naples International Airport,NAP,Ryanair,2h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Newcastle International Airport,NCL,Ryanair,2h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Heraklion International Airport,HER,Wizz Air,3h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Split Airport,SPU,Wizz Air,2h 10m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Kronoberg,VXO,Ryanair,1h 0m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Chania International Airport,CHQ,Ryanair,3h 10m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Lublin Airport,LUZ,Ryanair,1h 10m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Podgorica,TGD,Ryanair,2h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Treviso Airport,TSF,Ryanair,2h 0m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Burgas,BOJ,Ryanair,2h 30m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Jasionka,RZE,LOT,1h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Skelleftea,SFT,Ryanair,2h 5m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Dusseldorf Airport,DUS,Eurowings,1h 40m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Madeira Airport,FNC,Wizz Air,5h 40m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Paphos International Airport,PFO,Ryanair,3h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Tenerife South Airport,TFS,Wizz Air,6h 0m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Aldergrove Airport,BFS,Ryanair,2h 30m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Tirana International Airport Nënë Tereza,TIA,Wizz Air,2h 25m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Corfu International Airport,CFU,Ryanair,2h 40m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Santorini (Thira) International Airport,JTR,Ryanair,3h 5m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Birmingham Airport,BHX,Jet2,2h 25m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Catania Fontanarossa Airport,CTA,Wizz Air,3h 5m,per day,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Barajas,MAD,Wizz Air,3h 35m,per day,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Istanbul Airport,IST,LOT,~2h 0m,per day,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Copenhagen Airport,CPH,SAS,1h 5m,4-7,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Warsaw Chopin Airport,WAW,LOT,1h 0m,5-6,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Schiphol,AMS,KLM,1h 50m,3-4,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Stockholm Arlanda Airport,ARN,Ryanair,1h 20m,3-4,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Frankfurt Airport,FRA,Lufthansa,1h 45m,2-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Oslo Gardermoen Airport,OSL,Norwegian,1h 30m,2-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Munich Airport,MUC,Lufthansa,1h 35m,2-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Torp,TRF,Ryanair,1h 30m,2-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Stansted,STN,Ryanair,2h 20m,2-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Luton,LTN,Wizz Air,2h 25m,2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Göteborg Landvetter Airport,GOT,Wizz Air,1h 15m,1-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Dortmund,DTM,Wizz Air,1h 40m,1-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Hamburg Airport,HAM,Wizz Air,1h 20m,1-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Bergen Airport,BGO,Wizz Air,1h 55m,1-3,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Helsinki Airport,HEL,Finnair,2h 10m,1-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Beauvais–Tillé Airport,BVA,Wizz Air,2h 15m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Eindhoven Airport,EIN,Wizz Air,1h 45m,1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Leeds Bradford,LBA,Ryanair,2h 23m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Stavanger Sola,SVG,Wizz Air,1h 45m,1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Málaga Airport,AGP,Ryanair,4h 5m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Alicante–Elche Miguel Hernández Airport,ALC,Ryanair,3h 35m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,El Prat Airport,BCN,Wizz Air,3h 10m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Kraków John Paul II International Airport,KRK,Ryanair,1h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Orio al Serio International Airport,BGY,Ryanair,2h 8m,0-2,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Edinburgh Airport,EDI,Ryanair,2h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Keflavík International Airport,KEF,Wizz Air,3h 55m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Manchester Airport,MAN,Ryanair,2h 30m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Turku,TKU,Wizz Air,1h 30m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Ciampino,CIA,Ryanair,2h 30m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Copernicus Airport Wrocław,WRO,Ryanair,1h 5m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Václav Havel Airport Prague,PRG,Ryanair,1h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Vigra,AES,Wizz Air,2h 0m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Dublin Airport,DUB,Ryanair,2h 35m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Haugesund Karmoy,HAU,Wizz Air,1h 50m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Liverpool Airport,LPL,Wizz Air,2h 40m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Pisa International Airport,PSA,Ryanair,2h 20m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Trondheim Vaernes,TRD,Wizz Air,1h 55m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Milan Malpensa Airport,MXP,Wizz Air,2h 15m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Zadar Airport,ZAD,Ryanair,2h 5m,0-1,S M T W T F S
+Gdańsk Lech Wałęsa Airport,GDN,Aarhus,AAR,Ryanair,N/A,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Warsaw Chopin Airport,WAW,LOT,0h 55m,6,S M T W T F S
+Copernicus Airport Wrocław,WRO,Frankfurt Airport,FRA,Air Dolomiti,1h 20m,4,S M T W T F S
+Copernicus Airport Wrocław,WRO,Munich Airport,MUC,Lufthansa,1h 10m,2-3,S M T W T F S
+Copernicus Airport Wrocław,WRO,Schiphol,AMS,KLM,1h 45m,2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Stansted,STN,Ryanair,2h 10m,1-3,S M T W T F S
+Copernicus Airport Wrocław,WRO,Orio al Serio International Airport,BGY,Ryanair,1h 45m,1-2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Bologna Guglielmo Marconi Airport,BLQ,Ryanair,1h 50m,0-2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Málaga Airport,AGP,Ryanair,3h 40m,0-2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Luton,LTN,Wizz Air,2h 18m,1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Malta International Airport,MLA,Ryanair,2h 45m,1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Ciampino,CIA,Ryanair,2h 0m,1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Beauvais–Tillé Airport,BVA,Ryanair,2h 0m,1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Copenhagen Airport,CPH,SAS,1h 15m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Zadar Airport,ZAD,Ryanair,1h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Girona,GRO,Ryanair,2h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Gdańsk Lech Wałęsa Airport,GDN,Ryanair,1h 0m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Nottingham Airport,EMA,Ryanair,2h 10m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Alicante–Elche Miguel Hernández Airport,ALC,Ryanair,3h 10m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Edinburgh Airport,EDI,Ryanair,2h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Dublin Airport,DUB,Ryanair,2h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Dubrovnik Airport,DBV,Ryanair,1h 45m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Brussels South Charleroi Airport,CRL,Ryanair,1h 45m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Athens International Airport,ATH,Ryanair,2h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Palma De Mallorca Airport,PMI,Ryanair,2h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Treviso Airport,TSF,Ryanair,1h 35m,0-2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Falcone Borsellino Airport,PMO,Ryanair,2h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Pisa International Airport,PSA,Ryanair,1h 55m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Torp,TRF,Ryanair,1h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Valencia Airport,VLC,Ryanair,3h 5m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Zurich Airport,ZRH,SWISS,1h 40m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Gatwick,LGW,Wizz Air UK,2h 25m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Shannon,SNN,Ryanair,2h 45m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Bari Airport,BRI,Wizz Air,2h 0m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,EuroAirport Basel Mulhouse Freiburg,BSL,Wizz Air,1h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Corfu International Airport,CFU,Ryanair,2h 15m,0-2,S M T W T F S
+Copernicus Airport Wrocław,WRO,Bristol Airport,BRS,Ryanair,2h 20m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,El Prat Airport,BCN,Wizz Air,2h 40m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Chania International Airport,CHQ,Ryanair,2h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Baneasa,BBU,Wizz Air,1h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Leeds Bradford,LBA,Ryanair,N/A,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Paphos International Airport,PFO,Ryanair,3h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Rijeka,RJK,Ryanair,1h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Cote D Azur Airport,NCE,Wizz Air,2h 0m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Sofia Airport,SOF,Ryanair,2h 0m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Split Airport,SPU,Wizz Air,1h 40m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Barajas,MAD,Wizz Air,3h 10m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Eindhoven Airport,EIN,Wizz Air,1h 40m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Podgorica,TGD,Ryanair,1h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Casale,BDS,Ryanair,2h 5m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Inezgane Airport,AGA,Ryanair,4h 35m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Lamezia Terme,SUF,Ryanair,2h 25m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Chisinau International Airport,RMO,Wizz Air Malta,1h 50m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Tirana International Airport Nënë Tereza,TIA,Wizz Air Malta,1h 55m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Pescara,PSR,Ryanair,1h 55m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Bournemouth,BOH,Ryanair,2h 15m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Porto Airport,OPO,Ryanair,3h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Budapest Ferenc Liszt International Airport,BUD,Wizz Air,1h 5m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Newcastle International Airport,NCL,Ryanair,2h 20m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Naples International Airport,NAP,Ryanair,2h 5m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Marseille Provence Airport,MRS,Ryanair,2h 20m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Manchester Airport,MAN,Ryanair,2h 15m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Kutaisi,KUT,Wizz Air,3h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Liverpool Airport,LPL,Ryanair,2h 15m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Larnaca Airport,LCA,Wizz Air,3h 20m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Lisbon Airport,LIS,Ryanair,4h 0m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Glasgow International Airport,GLA,Ryanair,2h 30m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Incheon International Airport,ICN,LOT,11h 20m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Stockholm Arlanda Airport,ARN,Ryanair,1h 45m,0-1,S M T W T F S
+Copernicus Airport Wrocław,WRO,Gran Canaria Airport,LPA,Wizz Air,5h 30m,per day,S M T W T F S
+Copernicus Airport Wrocław,WRO,Seville Airport,SVQ,Ryanair,3h 25m,per day,S M T W T F S
+Copernicus Airport Wrocław,WRO,Catania Fontanarossa Airport,CTA,Wizz Air,2h 35m,per day,S M T W T F S
+Copernicus Airport Wrocław,WRO,Ohrid,OHD,Wizz Air,1h 55m,per day,S M T W T F S
+Katowice Airport,KTW,Warsaw Chopin Airport,WAW,LOT,0h 50m,2-4,S M T W T F S
+Katowice Airport,KTW,Dortmund,DTM,Wizz Air,1h 45m,3,S M T W T F S
+Katowice Airport,KTW,Frankfurt Airport,FRA,Lufthansa,1h 45m,2-3,S M T W T F S
+Katowice Airport,KTW,Luton,LTN,Wizz Air,2h 28m,1-2,S M T W T F S
+Katowice Airport,KTW,Orio al Serio International Airport,BGY,Ryanair,1h 45m,1-3,S M T W T F S
+Katowice Airport,KTW,Stansted,STN,Ryanair,2h 30m,1-2,S M T W T F S
+Katowice Airport,KTW,Catania Fontanarossa Airport,CTA,Wizz Air,2h 30m,0-2,S M T W T F S
+Katowice Airport,KTW,Eindhoven Airport,EIN,Wizz Air,1h 55m,1-2,S M T W T F S
+Katowice Airport,KTW,Malta International Airport,MLA,Wizz Air,2h 45m,0-2,S M T W T F S
+Katowice Airport,KTW,Fiumicino,FCO,Wizz Air,2h 5m,0-2,S M T W T F S
+Katowice Airport,KTW,Alghero,AHO,Ryanair,2h 20m,0-1,S M T W T F S
+Katowice Airport,KTW,Alicante–Elche Miguel Hernández Airport,ALC,Wizz Air,3h 20m,0-2,S M T W T F S
+Katowice Airport,KTW,Athens International Airport,ATH,Ryanair,2h 30m,0-2,S M T W T F S
+Katowice Airport,KTW,Oslo Gardermoen Airport,OSL,Ryanair,2h 20m,0-1,S M T W T F S
+Katowice Airport,KTW,Dublin Airport,DUB,Ryanair,2h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,El Prat Airport,BCN,Wizz Air,2h 50m,0-1,S M T W T F S
+Katowice Airport,KTW,Tenerife South Airport,TFS,Wizz Air,5h 50m,0-1,S M T W T F S
+Katowice Airport,KTW,Burgas,BOJ,Wizz Air,2h 0m,0-1,S M T W T F S
+Katowice Airport,KTW,Podgorica,TGD,Wizz Air,1h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,Madeira Airport,FNC,Wizz Air,5h 15m,0-1,S M T W T F S
+Katowice Airport,KTW,Bari Airport,BRI,Ryanair,2h 0m,0-1,S M T W T F S
+Katowice Airport,KTW,Chisinau International Airport,RMO,Wizz Air,1h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Keflavík International Airport,KEF,Wizz Air,4h 25m,0-1,S M T W T F S
+Katowice Airport,KTW,Treviso Airport,TSF,Ryanair,1h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Paphos International Airport,PFO,Ryanair,3h 5m,0-1,S M T W T F S
+Katowice Airport,KTW,Manchester Airport,MAN,Ryanair,2h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,Barajas,MAD,Wizz Air,3h 30m,0-1,S M T W T F S
+Katowice Airport,KTW,Liverpool Airport,LPL,Wizz Air,2h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Larnaca Airport,LCA,Wizz Air,3h 15m,0-1,S M T W T F S
+Katowice Airport,KTW,Kutaisi,KUT,Wizz Air,3h 15m,0-1,S M T W T F S
+Katowice Airport,KTW,Pisa International Airport,PSA,Wizz Air,1h 55m,0-1,S M T W T F S
+Katowice Airport,KTW,Split Airport,SPU,Wizz Air,1h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Tirana International Airport Nënë Tereza,TIA,Wizz Air,1h 50m,0-1,S M T W T F S
+Katowice Airport,KTW,Brussels South Charleroi Airport,CRL,Ryanair,2h 0m,0-1,S M T W T F S
+Katowice Airport,KTW,Reggio Calabria,REG,Ryanair,2h 20m,0-1,S M T W T F S
+Katowice Airport,KTW,Varna,VAR,Ryanair,1h 55m,0-1,S M T W T F S
+Katowice Airport,KTW,Zadar Airport,ZAD,Ryanair,1h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Trapani Birgi,TPS,Ryanair,2h 30m,0-1,S M T W T F S
+Katowice Airport,KTW,Naples International Airport,NAP,Wizz Air,2h 5m,0-1,S M T W T F S
+Katowice Airport,KTW,Málaga Airport,AGP,Wizz Air,3h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Heraklion International Airport,HER,Karinou Airlines,2h 40m,0-1,S M T W T F S
+Katowice Airport,KTW,Zayed International Airport,AUH,Wizz Air,5h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,Fuerteventura Airport,FUE,Wizz Air,5h 35m,0-1,S M T W T F S
+Katowice Airport,KTW,Forli,FRL,Ryanair,1h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,Dubrovnik Airport,DBV,Ryanair,1h 45m,0-1,S M T W T F S
+Katowice Airport,KTW,Corfu International Airport,CFU,Wizz Air,2h 10m,0-1,S M T W T F S
+Katowice Airport,KTW,Budapest Ferenc Liszt International Airport,BUD,Ryanair,1h 10m,0-1,S M T W T F S
+Katowice Airport,KTW,Pula,PUY,Ryanair,1h 35m,0-1,S M T W T F S
+Katowice Airport,KTW,Faro Airport,FAO,Wizz Air,4h 5m,1,S M T W T F S
+Katowice Airport,KTW,Inezgane Airport,AGA,Wizz Air,4h 25m,per day,S M T W T F S
+Katowice Airport,KTW,Ohrid,OHD,Wizz Air,2h 5m,per day,S M T W T F S
+Katowice Airport,KTW,Casale,BDS,Wizz Air,2h 0m,per day,S M T W T F S
+Katowice Airport,KTW,Billund Airport,BLL,Wizz Air,1h 45m,per day,S M T W T F S
+Katowice Airport,KTW,Lamezia Terme,SUF,Wizz Air,2h 15m,per day,S M T W T F S
+Katowice Airport,KTW,Brasov Ghimbav Airport,GHV,Wizz Air,1h 25m,per day,S M T W T F S
+Katowice Airport,KTW,Maastricht,MST,Wizz Air,1h 55m,per day,S M T W T F S
+Katowice Airport,KTW,Porto Airport,OPO,Wizz Air,3h 45m,per day,S M T W T F S
+
