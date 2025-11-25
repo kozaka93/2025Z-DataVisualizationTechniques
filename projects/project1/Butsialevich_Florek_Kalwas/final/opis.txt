@@ -1,0 +1,5 @@
+Przejrzeliśmy ilość zachorowań na wybrane choroby w latach 2016-2023 z podziałem na województwa. Widzimy, że 
+najczęściej ludzie chorują na choroby psychiczne, ale najczęściej ludzie chorują na grypę (których przypadków 
+było nawet milion w pewnym roku w danym województwie), ale często wynik jest zawyżany (spowodowane np. 
+nieszczegółową diagnozą lekarską). Najwięcej przypadków jest w województwie mazowieckim i z roku na rok jest coraz 
+więcej przypadków.
