@@ -1,0 +1,4 @@
+link do posta na X:
+https://x.com/joseph_barbier/status/1897007916345123315?s=20
+link do danych na repo TidyTuesday na github:
+https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-03-04/longbeach.csv
