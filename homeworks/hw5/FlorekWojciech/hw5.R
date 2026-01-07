@@ -73,3 +73,4 @@ while(n>0)
 }
 #wykres
 plot(x=punkty$x,y=punkty$y,col=punkty$col,pch=punkty$pch,axes = FALSE,xlab="",ylab="") 
+
