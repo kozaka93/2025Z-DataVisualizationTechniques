@@ -183,14 +183,14 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">07.01, 08.01, 19.12</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: matplotlib, seaborn</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab12">Python: matplotlib, seaborn</a></td>
     <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/issues/364">PD5</a> (6p)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">07.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">wykład</td>
-    <td class="tg-c3ow">Wizualizacja grafów, teksu, dashboardy, historia, IBCS</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-graphs.pdf">Wizualizacja grafów</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-dashboards.pdf">dashboardy</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-history.pdf">historia</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-IBCS.pdf">IBCS</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
