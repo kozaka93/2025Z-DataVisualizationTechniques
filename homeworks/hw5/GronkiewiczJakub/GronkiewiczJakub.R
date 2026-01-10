@@ -40,3 +40,4 @@ p <- ggplot(final_data, aes(x = x, y = y)) +
 
 print(p)
 ggsave("choinka.png")
+
