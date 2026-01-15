@@ -197,14 +197,14 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">14.01, 15.01, 16.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: plotly</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab13">Python: plotly</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">projekt</td>
-    <td class="tg-c3ow">P2: gotowe wykresy, prototyp wyglądu aplikacji</td>
+    <td class="tg-c3ow"><i>P2: gotowe wykresy, prototyp wyglądu aplikacji</i></td>
     <td class="tg-c3ow">P2 (2p)</td>
   </tr>
   <tr>
