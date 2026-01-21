@@ -211,7 +211,7 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">21.01, 22.01, 23.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: graphs, matplotlib, seaborn - zaawansowane</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab14">Python: graphs, matplotlib, seaborn - zaawansowane</a></td>
     <td class="tg-c3ow"><a href=https://github.com/kozaka93/2025Z-DataVisualizationTechniques/issues/427>PD6</a> (6p)</td>
   </tr>
   <tr>
