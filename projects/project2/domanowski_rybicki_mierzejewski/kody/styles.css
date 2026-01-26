@@ -1,0 +1,173 @@
+.stApp {
+  background-color: #0d0d0d;
+}
+
+[data-testid="stSidebar"] {
+  background-color: #0d0d0d;
+  border-right: 1px solid #1a1a1a;
+  display: none;
+}
+[data-testid="stSidebar"] > div:first-child {
+  padding-top: 1rem;
+}
+
+h1 {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  font-size: 2rem !important;
+}
+h2,
+h3 {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+[data-testid="stMetric"] {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 16px 20px;
+  position: relative;
+}
+[data-testid="stMetricLabel"] {
+  color: #666666 !important;
+  font-size: 0.75rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+[data-testid="stMetricValue"] {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  font-size: 1.5rem !important;
+}
+[data-testid="stMetricDelta"] {
+  font-size: 0.8rem !important;
+}
+.opt-label {
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+  color: #666;
+  font-size: 0.7rem;
+}
+
+.card {
+  background-color: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 16px;
+}
+
+.stSlider > div > div > div {
+  background-color: #333333 !important;
+}
+.stSlider > div > div > div > div {
+  background-color: #4ade80 !important;
+}
+
+.stMultiSelect > div > div {
+  background-color: #1a1a1a !important;
+  border-color: #2a2a2a !important;
+  color: #ffffff !important;
+}
+.stMultiSelect span {
+  color: #ffffff !important;
+}
+
+.stRadio {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+.stRadio > div {
+  background-color: #1a1a1a;
+  padding: 12px 40px;
+  border-radius: 8px;
+  display: flex !important;
+  justify-content: center !important;
+  gap: 40px;
+  width: 100% !important;
+}
+.stRadio > div > div,
+div[role="radiogroup"] {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 40px !important;
+  width: 100% !important;
+}
+.stElementContainer:has(.stRadio) {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+.stRadio label {
+  color: #888888 !important;
+  font-size: 0.85rem !important;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 8px 4px;
+  border-radius: 0;
+  background: transparent !important;
+  transition: color 0.2s ease;
+  cursor: pointer;
+}
+.stRadio label:hover {
+  color: #ffffff !important;
+  background: transparent !important;
+}
+.stRadio input[type="radio"] {
+  display: none !important;
+}
+.stRadio label > div:first-child,
+.stRadio [data-testid="stMarkdownContainer"] + div,
+div[role="radiogroup"] > label > div:first-child {
+  display: none !important;
+}
+.stRadio [data-checked="true"] label,
+.stRadio div[data-checked="true"],
+.stRadio [data-checked="true"] p {
+  color: #ffffff !important;
+  font-weight: 600 !important;
+  background: transparent !important;
+}
+
+.stSelectbox > div > div {
+  background-color: #1a1a1a !important;
+  border-color: #2a2a2a !important;
+}
+
+p,
+span,
+label {
+  color: #cccccc;
+}
+
+.divider {
+  height: 1px;
+  background-color: #2a2a2a;
+  margin: 16px 0;
+}
+
+#MainMenu {
+  visibility: hidden;
+}
+footer {
+  visibility: hidden;
+}
+
+header[data-testid="stHeader"] {
+  background-color: #0d0d0d !important;
+  border-bottom: 1px solid #1a1a1a;
+}
+
+[data-testid="column"] {
+  padding: 0 8px;
+}
+
+.stMainBlockContainer {
+  max-width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
