@@ -1,0 +1,47 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation
+
+N = 400            
+h = 10
+r0 = 4
+ile = 8
+
+t = np.linspace(0, 1, N)
+z = h * t
+kat = 2 * np.pi * ile * t 
+r = r0 * (1 - t)
+
+x = r * np.cos(kat)
+y = r * np.sin(kat)
+
+
+fig = plt.figure(figsize=(7, 7))
+ax = fig.add_subplot(111, projection="3d")
+ax.set_axis_off()
+ax.set_xlim(-r0, r0)
+ax.set_ylim(-r0, r0)
+ax.set_zlim(0, h+5)
+
+ax.view_init(elev=20, azim=-45)
+
+line, = ax.plot([], [], [], color='darkgreen', linewidth=2)
+
+gwiazdka = ax.scatter([], [], [], marker="*", color="gold", s=300)
+napis = ax.text(0,0,h+4, "",color = "darkred",va = "center",ha="center",fontsize=20, fontweight='bold', fontname='Comic Sans MS')
+
+
+def update(dl):
+    line.set_data(x[:dl], y[:dl])
+    line.set_3d_properties(z[:dl])
+    
+    if dl == N-1:
+        gwiazdka._offsets3d = ([0], [0], [h+0.5])
+        napis.set_text("Wesołych Świąt!")
+    
+    return line, gwiazdka, napis
+
+anim = FuncAnimation(fig, update, frames=N+50, interval=5, repeat = False, blit = False)
+plt.show()
+
+anim.save("choinka.gif", writer='pillow', fps=30)

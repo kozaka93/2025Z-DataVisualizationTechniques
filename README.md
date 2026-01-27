@@ -130,7 +130,7 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow" rowspan="2">26.11</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow">wykład</td>
-    <td class="tg-c3ow" rowspan="2">Oddanie P1</td>
+    <td class="tg-c3ow" rowspan="2"><i><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/projects/project1">Oddanie P1</a></i></td>
     <td class="tg-c3ow" rowspan="2">P1 (20p)</td>
   </tr>
   <tr>
@@ -142,13 +142,13 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
     <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab09">R: Shiny 1</a></td>
-    <td class="tg-c3ow">PD4 (6p)</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/issues/295">PD4 (6p)</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">03.12</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">projekt</td>
-    <td class="tg-c3ow">P2: pomysł, źródło danych</td>
+    <td class="tg-c3ow"><i>P2: pomysł, źródło danych</i></td>
     <td class="tg-c3ow">P2 (1p)</td>
   </tr>
   <tr>
@@ -169,50 +169,50 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">17.12, 18.12, 12.12</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: pandas, numpy</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab11">Python: pandas, numpy</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">17.12</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">projekt</td>
-    <td class="tg-c3ow">P2: eksploracja danych, pomysły na wykresy, prototypy wykresów</td>
+    <td class="tg-c3ow"><i>P2: eksploracja danych, pomysły na wykresy, prototypy wykresów</i></td>
     <td class="tg-c3ow">P2 (2p)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">07.01, 08.01, 19.12</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: matplotlib, seaborn</td>
-    <td class="tg-c3ow">PD5 (6p)</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab12">Python: matplotlib, seaborn</a></td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/issues/364">PD5</a> (6p)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">07.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">wykład</td>
-    <td class="tg-c3ow">Wizualizacja grafów, teksu, dashboardy, historia, IBCS</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-graphs.pdf">Wizualizacja grafów</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-dashboards.pdf">dashboardy</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-history.pdf">historia</a>, <a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/blob/main/lectures/L05-IBCS.pdf">IBCS</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14.01, 15.01, 16.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: plotly</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab13">Python: plotly</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">projekt</td>
-    <td class="tg-c3ow">P2: gotowe wykresy, prototyp wyglądu aplikacji</td>
+    <td class="tg-c3ow"><i>P2: gotowe wykresy, prototyp wyglądu aplikacji</i></td>
     <td class="tg-c3ow">P2 (2p)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">21.01, 22.01, 23.01</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">Python: graphs, matplotlib, seaborn - zaawansowane</td>
-    <td class="tg-c3ow">PD6 (6p)</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab14">Python: graphs, matplotlib, seaborn - zaawansowane</a></td>
+    <td class="tg-c3ow"><a href=https://github.com/kozaka93/2025Z-DataVisualizationTechniques/issues/427>PD6</a> (6p)</td>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="2">21.01</td>

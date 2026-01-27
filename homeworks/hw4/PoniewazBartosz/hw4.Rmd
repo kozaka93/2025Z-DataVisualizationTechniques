@@ -1,0 +1,97 @@
+---
+title: "TWD Praca domowa nr 4"
+author: "Bartosz Ponieważ (nr albumu 339016)"
+date: "8.12.2025"
+output: 
+  html_document:
+    theme: default
+---
+
+```{r env_setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+# Oryginalna wizualizacja i dane
+------------------------------------
+link do posta: https://x.com/Dr_manishdatt/status/1993270599851106465?s=20 \n
+link do danych (tego tygodnia Tidy Tuesday): \n https://github.com/rfordatascience/tidytuesday/tree/main/data/2025/2025-11-25
+
+![oryginalny wykres z TidyTuesday](hw4_tidytuesday_bad_visualisation.png)
+Powody czemu tą wizualizację uważam za do poprawy:
+1. Wykres jest kiepko czytelny z legendą zlewającą się z dwoma wykresami oraz w niestandardowym miejscu
+2. Takie same skalowanie na osi Y dla wszystkich wykresów pomimo braku dancyh z lat 2004-2016 dla niektórych wskaźników zaburza wzrosty i wygląda nieestetycznie
+3. Nietypowo zrobione osie, połączone ze soba z resetującymi się latami które są według mnie średnio oznaczone
+
+#Przygotowanie danych
+-------------------------------
+```{r data_prep}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(readr)
+
+spi_data <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-11-25/spi_indicators.csv",show_col_types = F) 
+
+growth_ranking <- spi_data %>%
+  filter(year %in% c(2016, 2023)) %>%
+  select(country, year, data_use_score, data_services_score, 
+         data_products_score, data_sources_score, data_infrastructure_score) %>%
+  mutate(total_sum = rowSums(across(ends_with("_score")), na.rm = FALSE)) %>%
+  filter(!is.na(total_sum)) %>%
+  select(country, year, total_sum) %>%
+  pivot_wider(names_from = year, values_from = total_sum, names_prefix = "y") %>%
+  mutate(growth = y2023 - y2016) %>%
+  arrange(desc(growth)) %>%
+  slice_head(n = 10)
+
+
+plot_data <- spi_data %>%
+  filter(country %in% growth_ranking$country, year >= 2016, year <= 2023) %>%
+  select(country, year, ends_with("_score")) %>%
+  pivot_longer(cols = ends_with("_score"), names_to = "indicator", values_to = "score") %>%
+  mutate(
+    indicator_label = case_when(
+      indicator == "overall_score" ~ "1. Overall Data Score",
+      indicator == "data_use_score" ~ "2. Data useage",
+      indicator == "data_services_score" ~ "3. Data services",
+      indicator == "data_products_score" ~ "4. Data products",
+      indicator == "data_sources_score" ~ "5. Data sources",
+      indicator == "data_infrastructure_score" ~ "6. Infrastructure"
+    )
+  )
+```
+
+Użyłem jedynie danych z lat 2016-2023 żeby były kompletne dla wszystkich wzkaźników.
+
+```{r plot_prep, fig.width=14, fig.height=10, dpi=300}
+p <- ggplot(plot_data, aes(x = year, y = score, color = country)) +
+  geom_line(linewidth = 1, alpha = 0.8) +
+  geom_point(size = 1.2) +
+  facet_wrap(~indicator_label, ncol = 3, scales = "free_y") +
+  scale_x_continuous(breaks = seq(2016, 2023, 1)) +
+  scale_y_continuous(limits = c(0, 100)) +
+  scale_color_brewer(palette = "Paired") + 
+  theme_minimal(base_size = 11) +
+  labs(
+    title = "Statistical Performance Indicators Analysis",
+    subtitle = "Top 10 countries with the greatest improvement in the overall score\n of the World Bank Statistical Performance Indicators from 2016 - 2023",
+    x = "year",
+    y = "score (0-100)",
+    color = "Country",
+    caption = "Source: World Bank via TidyTuesday"
+  ) +
+  theme(
+    plot.title = element_text(face = "bold", size = 16),
+    plot.subtitle = element_text(color = "gray20", margin = margin(b = 15)),
+    legend.position = "bottom",
+    legend.box.spacing = unit(0, "pt"),
+    strip.text = element_text(face = "bold", size = 10, hjust = 0),
+    panel.grid.minor = element_blank(),
+    panel.spacing = unit(1, "lines")
+  )
+
+print(p)
+```
+
+# Podsumowanie
+Na wykresie poprawiony jest problem nieczytelności osi oraz legendy a także dane dobrane są tak aby wskaźniki były zmierzone w każdej kategorii, tracimy na danych ale ogólna wizualizacja jest lepsza jeśli odetniemy dane skoro chcemy wszystkie wskaźniki i ich wzrost porównywać na raz

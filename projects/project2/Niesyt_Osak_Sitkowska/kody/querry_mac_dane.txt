@@ -1,0 +1,17 @@
+
+Querry do uzyskania danych z bazy danych knowledgeC 
+cp ~/Library/Application\ Support/Knowledge/knowledgeC.db* ~/Desktop/
+
+sqlite3 -header -csv ~/Desktop/knowledgeC.db "
+SELECT
+    datetime(ZSTARTDATE + 978307200, 'unixepoch', 'localtime') as Start,
+    datetime(ZENDDATE + 978307200, 'unixepoch', 'localtime') as Koniec,
+    ZVALUESTRING as Aplikacja,
+    (ZENDDATE - ZSTARTDATE) as Czas_Sekundy
+FROM
+    ZOBJECT
+WHERE
+    ZSTREAMNAME = '/app/usage'
+ORDER BY
+    ZSTARTDATE DESC;
+" > ~/Desktop/Raport_Mac_Only.csv
