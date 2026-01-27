@@ -1,0 +1,45 @@
+/* 1. ZMNIEJSZENIE KULEK (UCHWYTÓW) */
+.rc-slider-handle {
+    /* Zmiana z 24px na 18px */
+    width: 18px !important;
+    height: 18px !important;
+
+    /* Korekta centrowania w pionie dla nowej wysokości */
+    /* Było -10px, teraz dajemy mniej, bo kulka jest mniejsza */
+    margin-top: -7px !important;
+
+    /* Reszta bez zmian - biały środek, niebieska ramka */
+    border: 2px solid #0d6efd !important;
+    background-color: white !important;
+    opacity: 1 !important;
+}
+
+/* Efekt po najechaniu na kulkę */
+.rc-slider-handle:hover {
+    border-color: #0b5ed7 !important;
+    /* Skoro kulka bazowa jest mniejsza, możemy ją ciut mocniej powiększyć przy najechaniu */
+    transform: scale(1.15);
+}
+
+/* Kolor paska aktywnego (bez zmian) */
+.rc-slider-track {
+    background-color: #0d6efd !important;
+}
+
+.intro-container p {
+    font-size: 17px;
+}
+
+.special-plotly {
+  display: block;
+  margin: auto;
+  width: 130%;
+}
+
+.o-padding-a {
+    margin-bottom: 20px;
+}
+
+.o-padding-b {
+    margin-top: 20px;
+}
