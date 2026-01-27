@@ -35,3 +35,18 @@ Aplikacja została podzielona na 3 główne sekcje:
 * **Top 15 Kanałów:** Ranking najchętniej oglądanych twórców.
 * **Dobowy rytm YouTube:** Wykres pokazujący, w jakich godzinach użytkownicy najczęściej oglądają treści wideo.
 * **Intensywność oglądania:** Heatmapa pozwalająca zidentyfikować "prime time" dla każdego z użytkowników.
+
+![](screeny/s1.png)
+
+
+![](screeny/s2.png)
+
+![](screeny/s3.png)
+![](screeny/s4.png)
+![](screeny/s5.png)
+![](screeny/s6.png)
+
+
+
+
+
