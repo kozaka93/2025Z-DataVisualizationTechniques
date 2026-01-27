@@ -1,0 +1,6 @@
+streamlit>=1.40.0
+pandas
+plotly
+numpy
+icalendar
+statsmodels
