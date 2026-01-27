@@ -1,5 +1,7 @@
 # Analiza Cyfrowego Życia - Digital Life Dashboard
 
+NASZE DZIEŁO: https://mosak2005.shinyapps.io/projektTWD2/
+
 ## Nasz Zespół
 **Mateusz Osak, Aleksandra Sitkowska, Konrad Niesyt**
 
