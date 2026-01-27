@@ -1,0 +1,7 @@
+dash_bootstrap_components>=2.0.4
+dash>=3.3.0
+plotly>=6.5.1
+pandas>=2.2.3
+numpy>=2.4.1
+pyarrow>=22.0.0
+tzdata>=2025.2
