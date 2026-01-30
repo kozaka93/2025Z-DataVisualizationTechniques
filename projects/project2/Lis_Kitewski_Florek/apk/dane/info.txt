@@ -1,0 +1,6 @@
+Do tego folderu trzeba włożyć 3 csv
+full_game_info
+full_moves
+debiuty
+
+(obecnie jeszcze podsumowanie.csv - tabela od Wojtka) - to się zmieni
