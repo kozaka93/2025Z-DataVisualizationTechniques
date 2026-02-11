@@ -44,7 +44,7 @@ Aplikacja ma 4 główne strony:
 
 Na niej znajdują się ogóle informacje dotyczące projektu. Zawiera ona odnośnik "rozpocznij analizę" do sekcji analizy oraz "poznaj twórców projektu" do sekcji overview.
 
-![widok strony głównej](images_forreadme\image.png)
+![widok strony głównej](images_forreadme/image.png)
 picture 1 : widok strony głównej
 
 ![alt text](images_forreadme\image-1.png)
@@ -172,3 +172,4 @@ picture 8 : widok strony quizu po wygraniu - widać konfetti
 
     ![alt text](images_forreadme\image-26.png)
     picture 26 : widok tabelki porównującej czas ekranowy danego dnia z średnią wartościami w miesiącu gdy wybrany jest jeden dzień
+
